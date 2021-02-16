@@ -52,15 +52,15 @@ def error_bar(actual,pred,epoch):
 
 
 
-def train_test_error(r2_train,r2_test,epoch):
+def train_test_error(nll_train,nll_test,epoch):
     plt.figure()
-    plt.plot(r2_test, label="Test: {:.3f}".format(np.mean(r2_test[-5:])))
+    plt.plot(nll_test, label="Test: {:.3f}".format(np.mean(nll_test[-5:])))
     plt.xlabel('Epoch')
     plt.ylabel(r'NLL')
     plt.legend(loc='lower right')
     plt.savefig("Test_NLL.pdf", dpi=600)
     plt.close()
-    np.savetxt("Test_NLL_test.txt", r2_test)
+    np.savetxt("Test_NLL_test.txt", nll_test)
 
 
 
