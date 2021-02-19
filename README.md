@@ -16,8 +16,7 @@ PyTorch Implementation of Solving inverse problems using conditional invertible 
 ## Inverse surrogate model:
 <p align="center">
  <img src="/2D/images/Pic1-3.png" width="200">
- </p>
- 
+ </p>     
 Mapping: observations &#8594 input space
 
 # Dependencies
