@@ -10,9 +10,10 @@ This repository contains the training files for the identification of the permea
  <img src="images/Pic1-2.png" width="350">
  </p>
 The first row corresponds to the actual log-permeability field for each depth D and a 3-D view. The second row corresponds to the mean for all the samples for each depth (D) and a 3-D view. The third row shows a sample at each depth D and a 3-D view
+## Quick Start
 
-## Dataset
+### Dataset
 
-## Training the inverse surrogate model
+### Training the inverse surrogate model
 
 > - python3 train.py
