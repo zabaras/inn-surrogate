@@ -39,7 +39,7 @@ If you find this GitHub repository useful for your work, please consider to cite
   pages={110194},     
   year={2021},     
   publisher={Elsevier}     
-  doi = {https://doi.org/10.1016/j.jcp.2021.110194},       
+  doi = {https://doi.org/10.1016/j.jcp.2021.110194 },       
   url = {https://www.sciencedirect.com/science/article/pii/S0021999121000899},       
   author = {Govinda Anantha Padmanabha and Nicholas Zabaras}     
 }
