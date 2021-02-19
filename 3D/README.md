@@ -9,7 +9,7 @@ This repository contains the training files for the identification of the permea
 <p align="center">
  <img src="images/Pic1-2.png" width="350">
  </p>
-he first row corresponds to the actual log-permeability field for each depth D and a 3-D view. The second row corresponds to the mean for all the samples for each depth (D) and a 3-D view. The third row shows a sample at each depth D and a 3-D view
+The first row corresponds to the actual log-permeability field for each depth D and a 3-D view. The second row corresponds to the mean for all the samples for each depth (D) and a 3-D view. The third row shows a sample at each depth D and a 3-D view
 
 ## Dataset
 
