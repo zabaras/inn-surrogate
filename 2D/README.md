@@ -10,6 +10,7 @@ This repository contains the training files for the identification of the permea
  <img src="images/Pic1-1.png" width="200">
  </p>
 First image (first row and first column) shows the actual permeability field, second image (first row and second column) shows the mean for all the samples and the other images are samples.
+
 ## Training the inverse surrogate model
 
 > - Python3 train.py
