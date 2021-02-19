@@ -13,7 +13,11 @@ PyTorch Implementation of Solving inverse problems using conditional invertible 
 * The inverse surrogate model is used for the solution of inverse problems with unknown spatially-dependent parameters.
 * The developed method is applied for the estimation of a non-Gaussian permeability field in multiphase flows using limited pressure and saturation data.
 
-
+## Inverse surrogate model:
+<p align="center">
+ <img src="images/Pic1-1.png" width="200">
+ </p>
+Mapping: observations &#8594 input space
 # Dependencies
 [PyTorch](https://pytorch.org/) 1.0.0   
 Python 3  
