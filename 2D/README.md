@@ -7,5 +7,4 @@ Govinda Anantha Padmanabha, [Nicholas Zabaras](https://www.zabaras.com/)
 
 This repository contains the training files for the identification of the permeability field of an oil reservoir.
 ![](images/Pic1-1.png =100x20)
-
 First image (first row and first column) shows the actual permeability field, second image (first row and second column) shows the mean for all the samples and the other images are samples
