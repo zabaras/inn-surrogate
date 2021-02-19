@@ -8,7 +8,7 @@ import numpy as np
 ntrain = 10000
 
 def load_data():
-    Train_hdf5_file ='/scratch365/ganantha/Test/cINN/Paper_code_simulations/Upload_Github/dataset_3D/Config_2_train_obs_1pc_3D.hdf5'
+    Train_hdf5_file ='Config_2_train_obs_1pc_3D.hdf5'
     with h5py.File(Train_hdf5_file, 'r') as f:
         x_train = f['input'][:ntrain]
         y_train = f['output'][:ntrain]
@@ -18,7 +18,7 @@ def load_data():
 
 
 
-    Test_hdf5_file ='/scratch365/ganantha/Test/cINN/Paper_code_simulations/Upload_Github/dataset_3D/Config_2_test_obs_1pc_3D.hdf5'
+    Test_hdf5_file ='Config_2_test_obs_1pc_3D.hdf5'
     with h5py.File(Test_hdf5_file, 'r') as f1:
         x_test = f1['input']
         y_test_new = f1['output']
@@ -28,7 +28,7 @@ def load_data():
         test_loader_nll = DataLoader(TensorDataset(torch.FloatTensor(x_test),torch.FloatTensor(y_test_new)),batch_size=128, shuffle=False, drop_last=True)
 
 
-    Sample_hdf5_file ='/scratch365/ganantha/Test/cINN/Paper_code_simulations/Upload_Github/dataset_3D/Config_2_sample_obs_1pc_3D.hdf5'
+    Sample_hdf5_file ='Config_2_sample_obs_1pc_3D.hdf5'
     with h5py.File(Sample_hdf5_file, 'r') as f2:
         x_test = f2['input']
         y_test_new = f2['output']
