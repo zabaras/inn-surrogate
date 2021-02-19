@@ -33,14 +33,14 @@ Python 3
 If you find this GitHub repository useful for your work, please consider to cite this work:  
 
 
-@article{padmanabha2021solving,
-  title={Solving inverse problems using conditional invertible neural networks},
-  journal={Journal of Computational Physics},
-  pages={110194},
-  year={2021},
-  publisher={Elsevier}
-  doi = {https://doi.org/10.1016/j.jcp.2021.110194},  
-  url = {https://www.sciencedirect.com/science/article/pii/S0021999121000899},  
-  author = {Govinda Anantha Padmanabha and Nicholas Zabaras}
+@article{padmanabha2021solving,     
+  title={Solving inverse problems using conditional invertible neural networks},     
+  journal={Journal of Computational Physics},     
+  pages={110194},     
+  year={2021},     
+  publisher={Elsevier}     
+  doi = {https://doi.org/10.1016/j.jcp.2021.110194},       
+  url = {https://www.sciencedirect.com/science/article/pii/S0021999121000899},       
+  author = {Govinda Anantha Padmanabha and Nicholas Zabaras}     
 }
 
