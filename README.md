@@ -6,6 +6,14 @@ Govinda Anantha Padmanabha, [Nicholas Zabaras](https://www.zabaras.com/)
 
 PyTorch Implementation of Solving inverse problems using conditional invertible neural networks.
 
+# Highlights
+* Rather than developing a surrogate for a forward model, we are training directly an inverse surrogate mapping output information of a physical system to an unknown input distributed parameter.
+* A generative model based on conditional invertible neural networks (cINN) is developed.
+* The cINN is trained to serve as an inverse surrogate model of physical systems governed by PDEs.
+* The inverse surrogate model is used for the solution of inverse problems with unknown spatially-dependent parameters.
+* The developed method is applied for the estimation of a non-Gaussian permeability field in multiphase flows using limited pressure and saturation data.
+
+
 # Dependencies
 [PyTorch](https://pytorch.org/) 1.0.0   
 Python 3  
