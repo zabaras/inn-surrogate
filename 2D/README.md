@@ -13,5 +13,5 @@ First image (first row and first column) shows the actual permeability field, se
 
 ## Training the inverse surrogate model
 
-> - Python3 train.py
+> - python3 train.py
 
