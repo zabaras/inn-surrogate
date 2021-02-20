@@ -21,4 +21,4 @@ First image (first row and first column) shows the actual permeability field, se
 
 ## Contact  
 
-Open an issue on the Github repository if you have any questions/concerns.
+Open an issue on the Github repository if you have any questions.
