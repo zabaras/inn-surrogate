@@ -19,3 +19,6 @@ First image (first row and first column) shows the actual permeability field, se
 
 > - python3 train.py
 
+## Contact  
+
+Open an issue on the Github repository if you have any questions/concerns.
