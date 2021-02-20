@@ -18,3 +18,8 @@ The first row corresponds to the actual log-permeability field for each depth D 
 ### Training the inverse surrogate model
 
 > - python3 train.py
+
+
+## Contact  
+
+Open an issue on the Github repository if you have any questions.
