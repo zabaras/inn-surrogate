@@ -14,7 +14,8 @@ First image (first row and first column) shows the actual permeability field, se
 ## Quick Start
 
 ### Dataset
-
+The datasets can be downloaded using this link:
+https://zenodo.org/record/4631233#.YFo8N-F7mDI
 ### Training the inverse surrogate model
 
 > - python3 train.py
