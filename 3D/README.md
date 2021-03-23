@@ -14,7 +14,8 @@ The first row corresponds to the actual log-permeability field for each depth D 
 ## Quick Start
 
 ### Dataset
-
+Download the datasets from this link:
+https://zenodo.org/record/4631233#.YFo8N-F7mDI
 ### Training the inverse surrogate model
 
 > - python3 train.py
